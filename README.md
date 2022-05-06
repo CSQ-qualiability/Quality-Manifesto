@@ -1,2 +1,2 @@
 # Quality-Manifesto-Activity
-# 廿一世紀品質宣言活動登錄
+# CSQ品力會活動登錄
