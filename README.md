@@ -1,4 +1,3 @@
-# Quality-Manifesto-Activity
 # CSQ品力會組織
 主委 蔡祥智  
 常務委員 陳文魁  
