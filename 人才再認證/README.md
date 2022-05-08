@@ -2,4 +2,4 @@
 
 [會員範例連結](https://github.com/Fadawan/Certification)
 
-![循環圖](循環圖.png)
+![循環圖](cycle.png)
